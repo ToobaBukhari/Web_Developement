@@ -33,7 +33,36 @@ General-purpose attributes in HTML are attributes that can be used with most HTM
 
 Boilerplate code is a term used to describe a standard, generic, or repetitive piece of code that can be reused in multiple places. It provides a starting point for a particular type of project or task.This is a basic HTML5 boilerplate that includes standard elements like <!DOCTYPE html>, <html>, <head>, <meta>, <title>, <link>, <body>, and others. It provides a starting point for building a website.
 
-9. What does emmet do?
+9. Extentions
+
+Extensions can provide features like autocompletion, syntax highlighting, code formatting, and more.
+
+HTML Language Support:
+This extension provides basic HTML language support, including syntax highlighting, autocompletion, and snippets.
+
+Auto Rename Tag:
+Automatically renames paired HTML tags when one of them is renamed. This can be a time-saving feature when working with HTML markup.
+
+Auto Close Tag:
+Automatically adds closing tags when you type the closing angle bracket of an opening tag. It helps maintain well-formed HTML.
+
+Prettier - Code Formatter:
+Prettier is a code formatter that supports HTML. It helps maintain consistent code style by automatically formatting your HTML code according to predefined rules.
+
+Emmet:
+As mentioned earlier, Emmet is a powerful toolkit for web developers. The Emmet extension for VS Code provides Emmet abbreviation support, allowing you to quickly expand abbreviations into HTML or CSS code.
+
+Live Server:
+This extension enables a local development server that automatically reloads your HTML, CSS, and JavaScript files when they are modified. It's useful for real-time previews of your HTML pages.
+To install extensions in Visual Studio Code, you can follow these steps:
+
+Open VS Code.
+Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing Ctrl+Shift+X.
+Search for the desired extension in the Extensions view search bar.
+Click on the extension in the search results and then click the "Install" button.
+These extensions can significantly improve your HTML development experience in Visual Studio Code.
+
+ 10. What does emmet do?
 
 Emmet is a web development tool that helps streamline and speed up the process of writing code. 
 Emmet provides an abbreviation syntax that allows developers to write HTML and CSS code using shorthand expressions. These expressions are expanded into full HTML or CSS code snippets with a simple trigger. 
