@@ -67,4 +67,4 @@ Emmet provides an abbreviation syntax that allows developers to write HTML and C
 11. Important Html elements or attributes?
 
 Html has so many elements but some are very important so we cover most important one along with the attributes.
-Heading elements <h1-h6>
+Heading elements h1-h6
