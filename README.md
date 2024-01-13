@@ -37,9 +37,6 @@ Boilerplate code is a term used to describe a standard, generic, or repetitive p
 
 Extensions can provide features like autocompletion, syntax highlighting, code formatting, and more.
 
-HTML Language Support:
-This extension provides basic HTML language support, including syntax highlighting, autocompletion, and snippets.
-
 Auto Rename Tag:
 Automatically renames paired HTML tags when one of them is renamed. This can be a time-saving feature when working with HTML markup.
 
@@ -66,3 +63,8 @@ These extensions can significantly improve your HTML development experience in V
 
 Emmet is a web development tool that helps streamline and speed up the process of writing code. 
 Emmet provides an abbreviation syntax that allows developers to write HTML and CSS code using shorthand expressions. These expressions are expanded into full HTML or CSS code snippets with a simple trigger. 
+
+11. Important Html elements or attributes?
+
+Html has so many elements but some are very important so we cover most important one along with the attributes.
+Heading elements <h1-h6>
